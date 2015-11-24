@@ -8,7 +8,7 @@ Le but TP est le suivant :
 
 — Illustrer les limites de ce protocole
 
-— Rappeler certains concepts de base de la programmation Java (principalement l’héritage et la créa-tion de threads).
+— Rappeler certains concepts de base de la programmation Java (principalement l’héritage et la création de threads).
 
 2 Serveur et Client Echo
 
